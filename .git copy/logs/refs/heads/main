@@ -1,0 +1,9 @@
+0000000000000000000000000000000000000000 374be187a6b9d77783d9ae8ae582511f0ed37506 Biel Casamor <bielcasamor02@gmail.com> 1711469464 +0100	clone: from https://github.com/casamor125/Clase-a-partir-de-los-tests.git
+374be187a6b9d77783d9ae8ae582511f0ed37506 878ee70abc2e69913fe3eea30a7f1fdb787f7a59 Biel Casamor <bielcasamor02@gmail.com> 1711469854 +0100	commit: DONE en teoria
+878ee70abc2e69913fe3eea30a7f1fdb787f7a59 a8af94957315fa8557b0510e1c2e130c28ac0f61 Biel Casamor <bielcasamor02@gmail.com> 1711470246 +0100	commit: DONE en teoria de vd
+a8af94957315fa8557b0510e1c2e130c28ac0f61 374be187a6b9d77783d9ae8ae582511f0ed37506 Biel Casamor <bielcasamor02@gmail.com> 1711470882 +0100	rebase (finish): refs/heads/main onto 374be187a6b9d77783d9ae8ae582511f0ed37506
+374be187a6b9d77783d9ae8ae582511f0ed37506 3f70a567f376c47f8601a7346e3fc58402f58781 Biel Casamor <bielcasamor02@gmail.com> 1711471020 +0100	rebase (finish): refs/heads/main onto 534422a03c01f1515364a2cd97157501843bfb09
+3f70a567f376c47f8601a7346e3fc58402f58781 a8af94957315fa8557b0510e1c2e130c28ac0f61 Biel Casamor <bielcasamor02@gmail.com> 1711471047 +0100	pull: Fast-forward
+a8af94957315fa8557b0510e1c2e130c28ac0f61 878ee70abc2e69913fe3eea30a7f1fdb787f7a59 Biel Casamor <bielcasamor02@gmail.com> 1711471347 +0100	reset: moving to 878ee70abc2e69913fe3eea30a7f1fdb787f7a59
+878ee70abc2e69913fe3eea30a7f1fdb787f7a59 e91c2c123978f11472abeaa8f8535ecae82931a5 Biel Casamor <bielcasamor02@gmail.com> 1711471377 +0100	commit: prueba
+e91c2c123978f11472abeaa8f8535ecae82931a5 5f677811ef4745cf7cc855c319eaf62894e64ada Biel Casamor <bielcasamor02@gmail.com> 1711471398 +0100	pull: Merge made by the 'ort' strategy.
