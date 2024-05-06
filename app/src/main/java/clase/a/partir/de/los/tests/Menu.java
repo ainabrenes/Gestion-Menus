@@ -6,7 +6,7 @@ import java.util.HashMap;
 import java.util.Map;
 import java.util.List;
 import java.util.ArrayList;
-public class Menu2 {
+public class Menu {
     Map<String,Double> menu=new HashMap<>();
     List<Comanda> comanda = new ArrayList<>();
     List<Plat> platosComanda = new ArrayList<>();
